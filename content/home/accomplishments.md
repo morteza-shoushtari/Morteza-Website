@@ -78,4 +78,14 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Second Place Graduate Student Paper Award. Willie Harrison congratulates Morteza Shoushtari , Brigham Young University. Award being presented by Clifford Aggen Student Paper Chair. "
   
+      [[item]]
+  organization = "International Telemetry Conference"
+  organization_url = ""
+  title = "Best Paper Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2022-10-25"
+  date_end = ""
+  description = "The best paper award at the annual International Telemetry Conference (ITC) 2022. Morteza was awarded due to his extensive research and innovative solutions for the telemetry industry.  "
+  
 +++
