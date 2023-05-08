@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. candidate | Electrical and Computer Engineering | BYU
+role: Ph.D. in Electrical and Computer Engineering | BYU
 
 # Organizations/Affiliations
 organizations:
