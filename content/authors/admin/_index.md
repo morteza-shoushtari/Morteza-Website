@@ -74,6 +74,6 @@ user_groups:
 - Visitors
 ---
 
-Morteza Shoushtari is currently a Ph.D. candidate in the Electrical and Computer Engineering (ECE) department at Brigham Young University, where he focuses on physical layer security and secrecy/error correction coding on wiretap channels. His research takes place at the Information Theory and Communications Engineering (ICE) Lab, and he is particularly interested in wireless networks, cloud computing, and physical layer security.
+Morteza Shoushtari holds a Ph.D. in Electrical and Computer Engineering from Brigham Young University, where he conducted research at the Information Theory and Communications Engineering (ICE) Lab, focusing on physical layer security and error correction coding in wireless communications. He has a keen interest in wire/wireless networks, cloud computing, cryptosystems and physical layer security.
 
 In addition to his academic pursuits, Morteza has six years of experience working in various companies, including Huawei Technologies Co., JYANE Construction Co., Persia Cloud Co. (2X), and Lotus Company, where he served as an IT administrator and network engineer. He is a member of several professional organizations, including the IEEE Communication Society (ComSoc), IEEE Information Theory Society (ITSoc), and the engineering honors society "Eta Kappa Nu".
