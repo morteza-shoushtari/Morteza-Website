@@ -30,7 +30,7 @@ education:
   courses:
   - course: Ph.D., Electrical and Computer Engineering
     institution: Brigham Young University
-    year: Now
+    year: 2023
   - course: Ms.C., Information Technology (IT)
     institution: Shiraz University, IRAN
     year: 2013
