@@ -21,10 +21,11 @@ organizations:
 bio: My research interests include wired/wireless network, cloud computing and Physical Layer Security / Coding.
 
 interests:
-- Computer/Wireless Networks
+- Network Architecture
+- Network Security
+- Wireless Networking
 - Cloud Computing
-- Physical Layer Security
-- Post-Quantum Cryptosystems 
+- Error-Correction Coding 
 
 education:
   courses:
