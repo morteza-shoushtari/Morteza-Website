@@ -31,10 +31,10 @@ education:
   - course: Ph.D., Electrical and Computer Engineering
     institution: Brigham Young University
     year: 2023
-  - course: Ms.C., Information Technology (IT)
+  - course: MSc., Information Technology (IT)
     institution: Shiraz University, IRAN
     year: 2013
-  - course: B.Sc., Computer Engineering
+  - course: BSc., Computer Engineering
     institution: Sadjad University of Technology, IRAN
     year: 2010
 
