@@ -33,10 +33,10 @@ subtitle = ""
   description = "AWS/Citrix (2x) "
   
 [[feature]]
-  icon = "windows"
-  icon_pack = "fab"
-  name = "Operating System"
-  description = "Windows client/server "
+  icon = "wifi"
+  icon_pack = "fas"
+  name = "Wireless Network"
+  description = "LTE/5G Cellular networks "
   
   [[feature]]
   icon = "project-diagram"
