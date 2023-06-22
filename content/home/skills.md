@@ -36,7 +36,7 @@ subtitle = ""
   icon = "wifi"
   icon_pack = "fas"
   name = "Wireless Network"
-  description = "LTE/5G Cellular networks "
+  description = "LTE/5G Cellular Networks "
   
   [[feature]]
   icon = "project-diagram"
