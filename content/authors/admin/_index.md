@@ -18,15 +18,12 @@ organizations:
   url: "https://scholar.google.com/citations?hl=en&user=TML1NrUAAAAJ"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include wired/wireless network, cloud computing and Physical Layer Security / Coding.
+bio: My research interests include wired/wireless networks, network security, and Physical Layer Secrecy/Error-Correction Coding.
 
 interests:
-- Cellular Networks (5G/LTE)
-- Network Architecture
+- Wired/Wireless/Cellular Networks
 - Network Security
-- Wireless Networking
-- Cloud Computing
-- Error-Correction Coding 
+- Error-Correction Coding (Turbo, LDPC, and Viterbi algorithm) 
 
 education:
   courses:
