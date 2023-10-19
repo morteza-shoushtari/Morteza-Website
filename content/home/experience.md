@@ -23,13 +23,13 @@ date_format = "Jan 2006"
   company_url = "https://ece.byu.edu/"
   location = "UTAH"
   date_start = "2019-01-01"
-  date_end = ""
-  description = """RA with the emphasize on physical layer security and SECC coding on caching channels.
-  Responsibilities include:
+  date_end = "2023-07-07"
+  description = """RA with the emphasis on physical layer security and SECC coding on wireless communication.
+  The outcomes of my Ph.D. research involve:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Discovered new properties of secret error-correcting coding (SECC) from the perspectives of information and coding theory.
+  * Devised a high-speed algorithm to construct the optimal code in Nested Linear Secrecy Codes, enhancing code identification and selection efficiency.
+  * Conducted a detailed assessment and visualized secrecy problems such as eavesdropping in aeronautical mobile telemetry communication and suggested the use of secrecy coding and specialized version of post-quantum cryptosystems for this type of communication system.
   """
 
 [[experience]]
@@ -41,9 +41,9 @@ date_format = "Jan 2006"
   date_end = "2017-08-01"
   description = """ Responsibilities include:
   
-  * Maintained communication networks, monitor network performance, and resolved any technical issues
-  * Provided 24*7 level one support over 850 clients
-  * Installed and configured network devices including routers, switches, wireless AP's, camera's, and video conferences
+  * Managed communication networks, monitored network performance, and resolved any technical issues that arose.
+  * Provided first-level support to more than 250 employees.
+  * Performed installations and configurations of various network devices such as switches, wireless access points, cameras, and video conferencing systems.
   """
 
 [[experience]]
@@ -55,9 +55,9 @@ date_format = "Jan 2006"
   date_end = "2016-08-01"
   description = """ Responsibilities include:
   
-  * Maintained communication networks, monitor network performance, and resolved any technical issues
-  * Provided 24*7 level one support over 180 clients
-  * Installed and configured network devices including routers, switches, wireless AP's, camera's, and video conferences
+  * Managed communication networks, monitored network performance, and resolved any technical issues that arose.
+  * Delivered first-level support to more than 180 employees.
+  * Performed installations and configurations of various network devices such as switches, wireless access points, cameras, and video conferencing systems.
   """
 [[experience]]
   title = "Network Engineer"
@@ -68,8 +68,8 @@ date_format = "Jan 2006"
   date_end = "2016-01-01"
   description = """ Responsibilities include:
   
-  * Installed and configured 2X and IIRAS cloud platforms (IIAS, PAAS)
-  * Installed and configured Microsoft Servers (CRM, SharePoint, Lync)
-  * Installed and configured network devices, including routers, switches
+  * Administered IAAS and PAAS layers of the company's cloud platforms (2X, IIRAS).
+  *  Managed the company's Microsoft application servers (CRM, SharePoint, Lync).
+  * Installed and configured network devices, including switches and APs.
   """
 +++
