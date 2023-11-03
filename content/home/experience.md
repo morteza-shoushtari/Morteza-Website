@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "IT Administrator"
+  title = "Network Engineer"
   company = "Huawei Technologies Co."
   company_url = "https://www.huawei.com/us/"
   location = "IRAN"
@@ -41,9 +41,9 @@ date_format = "Jan 2006"
   date_end = "2017-08-01"
   description = """ Responsibilities include:
   
-  * Managed communication networks, monitored network performance, and resolved any technical issues that arose.
-  * Provided first-level support to more than 250 employees.
-  * Performed installations and configurations of various network devices such as switches, wireless access points, cameras, and video conferencing systems.
+  * Designed and implemented wired/wireless networks, and performed network maintenance and system upgrades.
+  * Maximized network performance and increased network availability by 99.99% by implementing a redundant network architecture.
+  * Performed installations and configurations, and support of various network devices such as switches, wireless access points, cameras, and video conferencing systems.
   """
 
 [[experience]]
@@ -55,9 +55,9 @@ date_format = "Jan 2006"
   date_end = "2016-08-01"
   description = """ Responsibilities include:
   
-  * Managed communication networks, monitored network performance, and resolved any technical issues that arose.
-  * Delivered first-level support to more than 180 employees.
-  * Performed installations and configurations of various network devices such as switches, wireless access points, cameras, and video conferencing systems.
+  * Managed wired communication networks, and performed network maintenance and system upgrades.
+  * Monitor performance and ensure system availability and reliability.
+  * Performed installations and configurations of various network devices such as switches, wireless AP, cameras, and video conferencing systems.
   """
 [[experience]]
   title = "Network Engineer"
@@ -68,8 +68,8 @@ date_format = "Jan 2006"
   date_end = "2016-01-01"
   description = """ Responsibilities include:
   
-  * Administered IAAS and PAAS layers of the company's cloud platforms (2X, IIRAS).
-  *  Managed the company's Microsoft application servers (CRM, SharePoint, Lync).
-  * Installed and configured network devices, including switches and APs.
+  * Administered SaaS and PaaS layers of the company's cloud platforms (Citrix, IIRAS).
+  * Performed installations and configurations of Windows servers, virtual machines (VMs), and switches.
+  * Managed and configured Microsoft application servers CRM, SharePoint, and Lync.
   """
 +++
