@@ -43,7 +43,8 @@ date_format = "Jan 2006"
   
   * Designed and implemented wired/wireless networks, and performed network maintenance and system upgrades.
   * Maximized network performance and increased network availability by 99.99% by implementing a redundant network architecture.
-  * Performed installations and configurations, and support of various network devices such as switches, wireless access points, cameras, and video conferencing systems.
+  * Performed installations and configurations, and support of various network devices such as switches (Huawei, Cisco), wireless access points (Huawei, Aruba), cameras, and video conferencing systems.
+
   """
 
 [[experience]]
@@ -57,7 +58,7 @@ date_format = "Jan 2006"
   
   * Managed wired communication networks, and performed network maintenance and system upgrades.
   * Monitor performance and ensure system availability and reliability.
-  * Performed installations and configurations of various network devices such as switches, wireless AP, cameras, and video conferencing systems.
+  * Performed installations and configurations of various network devices such as switches (Cisco), wireless access points (Aruba), cameras, and video conferencing systems.
   """
 [[experience]]
   title = "Network Engineer"
@@ -68,7 +69,7 @@ date_format = "Jan 2006"
   date_end = "2016-01-01"
   description = """ Responsibilities include:
   
-  * Administered SaaS and PaaS layers of the company's cloud platforms (Citrix, IIRAS).
+  * Performed installations and configurations of HP servers, virtual machines (VMs), and Cisco switches.
   * Performed installations and configurations of Windows servers, virtual machines (VMs), and switches.
   * Managed and configured Microsoft application servers CRM, SharePoint, and Lync.
   """
