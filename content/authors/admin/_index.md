@@ -72,8 +72,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Dr. Morteza Shoushtari completed his Ph.D. in Electrical and Computer Engineering at Brigham Young University (BYU) in 2023, specializing in physical-layer security and error-correction coding in wireless communications. His contributions to the field are reflected in several published papers in renowned academic conferences and journals, which have earned him three prestigious awards from the IEEE and ITC.
+Morteza Shoushtari earned his Ph.D. in Electrical and Computer Engineering from Brigham Young University (BYU) in 2023, specializing in physical-layer security and error-correction coding in wireless communications. His impactful research is evident through numerous publications in prestigious academic conferences and journals, resulting in three distinguished awards from the IEEE and ITC.
 
-Prior to pursuing his Ph.D., he gained five years of work experience in the tech industry, working as a network engineer at Huawei Technologies Co., JYANE Construction Co., and Persia Cloud Co. 
+Prior to his doctoral studies, Morteza accumulated five years of industry experience as a network engineer at Huawei Technologies Co., JYANE Construction Co., and Persia Cloud Co. 
 
-Dr. Shoushtari is a member of several professional organizations, including the IEEE Communication Society (ComSoc), the IEEE Information Theory Society (ITSoc), and the engineering honors society "Eta Kappa Nu".
+He is an active member of esteemed professional organizations such as the IEEE Communication Society (ComSoc), the IEEE Information Theory Society (ITSoc), and the engineering honors society "Eta Kappa Nu".
