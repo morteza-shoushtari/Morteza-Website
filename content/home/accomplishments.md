@@ -87,5 +87,14 @@ date_format = "Jan 2006"
   date_start = "2022-10-25"
   date_end = ""
   description = "The best paper award at the annual International Telemetry Conference (ITC) 2022. Morteza was awarded due to his extensive research and innovative solutions for the telemetry industry.  "
-  
+
+  [[item]]
+  organization = "IEEE Intermountain Engineering, Technology, and Computing Conference (IEEE i-ETC)"
+  organization_url = ""
+  title = "Third Paper Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2023-4-25"
+  date_end = ""
+  description = "The best paper award at the annual IEEE Intermountain Engineering, Technology, and Computing Conference (IEEE i-ETC) 2023. Morteza was awarded due to his innovative idea of using information theory solutions for the Metaverse Technology.  "
 +++
