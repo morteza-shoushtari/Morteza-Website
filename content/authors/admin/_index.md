@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: System Engineer at Supermicro | Ph.D. in ECE
+role: System Engineer at Supermicro  Ph.D. in ECE
 
 # Organizations/Affiliations
 organizations:
