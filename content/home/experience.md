@@ -17,6 +17,16 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "System Engineer"
+  company = "Supermicro"
+  company_url = "https://www.supermicro.com/en/"
+  location = "CL"
+  date_start = "2023-05-01"
+  date_end = ""
+  description = """  """
+
 [[experience]]
   title = "Graduate Research Assistant"
   company = "ICE Lab, BYU"
