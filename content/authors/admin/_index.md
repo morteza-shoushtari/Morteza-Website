@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. in Electrical and Computer Engineering | BYU
+role: System Engineer at Supermicro | Ph.D. in ECE
 
 # Organizations/Affiliations
 organizations:
