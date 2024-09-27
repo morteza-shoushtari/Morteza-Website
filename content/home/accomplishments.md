@@ -21,16 +21,6 @@ date_format = "Jan 2006"
 [[item]]
   organization = "i3center"
   organization_url = ""
-  title = "CompTIA A+"
-  url = ""
-  certificate_url = ""
-  date_start = "2012-03-01"
-  date_end = ""
-  description = "CompTIA A+ certification represents entry-level competency as a computer technician and is a vendor neutral certification that covers various technologies and operating systems"
-
-[[item]]
-  organization = "i3center"
-  organization_url = ""
   title = "CompTIA Network+"
   url = ""
   certificate_url = ""
