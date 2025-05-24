@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_start = "2023-05-01"
   date_end = ""
   description = """
-  * Develop scripts for network configuration and verification to streamline deployment processes, ensure consistency across systems, and improve operational efficiency in complex datacenter environments.
+  * Develop scripts for network configuration and verification to streamline deployment processes, ensure consistency across systems, and improve operational efficiency.
   * Provided technical leadership and strategic guidance on AI and HPC network infrastructure, worked in big projects such as xAI, Tesla, Meta, Intel, Gulf Business Machines, and Iron Mountain.
   * Collaborated with cross-functional teams to review network designs and functional specifications, ensuring compatibility, scalability, and high availability across all infrastructure components.
   """
