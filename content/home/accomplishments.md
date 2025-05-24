@@ -77,14 +77,4 @@ date_format = "Jan 2006"
   date_start = "2022-10-25"
   date_end = ""
   description = "The best paper award at the annual International Telemetry Conference (ITC) 2022. Morteza was awarded due to his extensive research and innovative solutions for the telemetry industry.  "
-
-      [[item]]
-  organization = "Supermicro Computer Inc."
-  organization_url = ""
-  title = "Supermicro GPU Service Associate/Specialist/Expert (SGSA, SGSS, SGSE)"
-  url = ""
-  certificate_url = ""
-  date_start = "2024-9-26"
-  date_end = ""
-  description = "It bring together Supermicro’s broad portfolio of workload optimized systems, NVIDIA GPUs and NVIDIA networking validated for performance, manageability, security, and scalability. Supermicro spans the complete range of NVIDIA-Certified Systems: Datacenter, Workstation and Edge.  "
 +++
