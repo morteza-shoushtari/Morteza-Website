@@ -21,6 +21,7 @@ organizations:
 bio: My research interests include wired/wireless networks, network security, and Physical Layer Secrecy/Error-Correction Coding.
 
 interests:
+-  AI/HPC Network Infrastructure
 - Wired/Wireless/Cellular Networks
 - Network Security
 - Error-Correction Coding (Turbo, LDPC, and Viterbi algorithm) 
