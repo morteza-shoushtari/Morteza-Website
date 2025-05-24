@@ -18,7 +18,7 @@ subtitle = ""
   icon = "network-wired"
   icon_pack = "fas"
   name = "Computer Network"
-  description = "Active/Passive"
+  description = "Enterprise/Data Center"
   
 [[feature]]
   icon = "keyboard"
