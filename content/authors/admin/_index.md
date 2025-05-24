@@ -72,6 +72,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Morteza is currently employed as a system engineer at Supermicro. He attained his Ph.D. in Electrical and Computer Engineering in 2023, specializing in physical-layer security and error-correction coding for wireless communications. His influential research has been showcased through numerous publications in esteemed academic conferences and journals. Furthermore, he has been honored with three distinguished awards from the IEEE and ITC, highlighting the significance of his contributions to the field.
+Morteza is currently employed as a system engineer at Supermicro, specializes in AI and HPC network/datacenter infrastructure. He attained his Ph.D. in Computer and Electrical Engineering in 2023, specializing in physical-layer security and error-correction coding on wireless communications. His influential research has been showcased through numerous publications in esteemed academic conferences and journals. Furthermore, he has been honored with three distinguished awards from the IEEE and ITC, highlighting the significance of his contributions to the field.
 
 He is an active member of esteemed professional organizations such as the IEEE Communication Society (ComSoc), the IEEE Information Theory Society (ITSoc), and the engineering honors society "Eta Kappa Nu".
