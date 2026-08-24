@@ -19,16 +19,17 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "System Engineer"
+  title = "Senior Network/System Engineer"
   company = "Supermicro"
   company_url = "https://www.supermicro.com/en/"
   location = "San Jose"
   date_start = "2023-05-01"
   date_end = ""
   description = """
-  * Develop scripts for network configuration and verification to streamline deployment processes, ensure consistency across systems, and improve operational efficiency.
-  * Provided technical leadership and strategic guidance on AI and HPC network infrastructure, worked in big projects such as xAI, Tesla, Meta, Intel, Gulf Business Machines, and Iron Mountain.
-  * Collaborated with cross-functional teams to review network designs and functional specifications, ensuring compatibility, scalability, and high availability across all infrastructure components.
+  * Design, optimize, and validate network infrastructure for large-scale AI/HPC systems, including NVIDA (GB300 and VR), and AMD (Helios) architectures across InfiniBand and Ethernet fabrics.
+  * Develop and optimize port connectivity by shuffle solutions (cables/modules), cabling architectures, and high-speed interconnects to ensure optimal performance, scalability, and signal integrity.
+  * Lead network and system validation activities, developing test plans, validation procedures, and technical documentation for network rack components.
+  * Collaborate with cable, transceiver, and switch vendors to troubleshoot and resolve complex system and network issues.
   """
 
 [[experience]]
