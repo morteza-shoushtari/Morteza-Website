@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Network/System Engineer at Supermicro Ph.D. in ECE
+role: Senior Network/System Engineer at Supermicro
 
 # Organizations/Affiliations
 organizations:
