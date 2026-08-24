@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: System Engineer at Supermicro  Ph.D. in ECE
+role: Senior Network/System Engineer at Supermicro | Ph.D. in ECE
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include wired/wireless networks, network security, and Physical Layer Secrecy/Error-Correction Coding.
 
 interests:
--  AI/HPC Network Infrastructure
+- AI/HPC Network Infrastructure
 - Wired/Wireless/Cellular Networks
 - Network Security
 - Error-Correction Coding (Turbo, LDPC, and Viterbi algorithm) 
@@ -73,6 +73,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Morteza is currently employed as a system engineer at Supermicro, specializes in AI and HPC network/datacenter infrastructure. He attained his Ph.D. in Computer and Electrical Engineering in 2023, specializing in physical-layer security and error-correction coding on wireless communications. His influential research has been showcased through numerous publications in esteemed academic conferences and journals. Furthermore, he has been honored with three distinguished awards from the IEEE and ITC, highlighting the significance of his contributions to the field.
+Morteza is currently employed as a senior network/system engineer at Supermicro, specializes in AI and HPC network/datacenter infrastructure. He attained his Ph.D. in Computer and Electrical Engineering in 2023, specializing in physical-layer security and error-correction coding on wireless communications. His influential research has been showcased through numerous publications in esteemed academic conferences and journals. Furthermore, he has been honored with three distinguished awards from the IEEE and ITC, highlighting the significance of his contributions to the field.
 
 He is an active member of esteemed professional organizations such as the IEEE Communication Society (ComSoc), the IEEE Information Theory Society (ITSoc), and the engineering honors society "Eta Kappa Nu".
