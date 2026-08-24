@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company = "Supermicro"
   company_url = "https://www.supermicro.com/en/"
   location = "San Jose"
-  date_start = "2023-05-01"
+  date_start = "2024-05-01"
   date_end = ""
   description = """
   * Design, optimize, and validate network infrastructure for large-scale AI/HPC systems, including NVIDA (GB300 and VR), and AMD (Helios) architectures across InfiniBand and Ethernet fabrics.
