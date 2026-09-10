@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   * Validated network infrastructure for hyperscale AI/HPC deployments, including xAI's Colossus cluster (200k+ NVIDIA H100/H200 GPUs), a 4k-GPU H200 deployment for GBM in Dubai, and a 20k-GPU GB300 deployment for Mistral in Paris, spanning InfiniBand and Ethernet fabrics.
-  * Reduced deployment errors by 40\% by developing and implementing rigorous port-mapping and network-compatibility validation procedures across multi-vendor cabling and transceiver configurations.
+  * Reduced deployment errors by 40% by developing and implementing rigorous port-mapping and network-compatibility validation procedures across multi-vendor cabling and transceiver configurations.
   * Engineered port connectivity and shuffle solutions (cables/modules) and high-speed interconnect architectures to ensure signal integrity and scalability across racks of varying GPU generations (B200, GB300, VR and AMD MI350/MI450) and interconnect standards.
   * Lead network and system validation activities, developing test plans, validation procedures, and technical documentation for network rack components.
   * Collaborated with cable, transceiver, and switch vendors to diagnose and resolve complex interoperability issues, minimizing downtime across mission-critical AI infrastructure rollouts.
