@@ -26,10 +26,12 @@ date_format = "Jan 2006"
   date_start = "2024-05-01"
   date_end = ""
   description = """
-  * Design, optimize, and validate network infrastructure for large-scale AI/HPC systems, including NVIDA (GB300 and VR), and AMD (Helios) architectures across InfiniBand and Ethernet fabrics.
-  * Develop and optimize port connectivity by shuffle solutions (cables/modules), cabling architectures, and high-speed interconnects to ensure optimal performance, scalability, and signal integrity.
+  * Validated network infrastructure for hyperscale AI/HPC deployments, including xAI's Colossus cluster (200k+ NVIDIA H100/H200 GPUs), a 4k-GPU H200 deployment for GBM in Dubai, and a 20k-GPU GB300 deployment for Mistral in Paris, spanning InfiniBand and Ethernet fabrics.
+  * Reduced deployment errors by 40\% by developing and implementing rigorous port-mapping and network-compatibility validation procedures across multi-vendor cabling and transceiver configurations.
+  * Engineered port connectivity and shuffle solutions (cables/modules) and high-speed interconnect architectures to ensure signal integrity and scalability across racks of varying GPU generations (B200, GB300, VR and AMD MI350/MI450) and interconnect standards.
   * Lead network and system validation activities, developing test plans, validation procedures, and technical documentation for network rack components.
-  * Collaborate with cable, transceiver, and switch vendors to troubleshoot and resolve complex system and network issues.
+  * Collaborated with cable, transceiver, and switch vendors to diagnose and resolve complex interoperability issues, minimizing downtime across mission-critical AI infrastructure rollouts.
+  * Collaborated cross-functionally with datacenter architects, ODM/OEM partners, and deployment teams across the US, Europe and Asia to align on product requirements and ensure successful large-scale rollouts.
   """
 
 [[experience]]
